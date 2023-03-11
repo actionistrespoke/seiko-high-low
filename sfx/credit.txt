@@ -1,1 +1,2 @@
-The creator name should be included alongside the file name. Otherwise, it's probably a stock sound.
+1) The creator name should be present alongside the file name unless they wished to remain uncredited.
+2) Stock sounds weren't included here.
