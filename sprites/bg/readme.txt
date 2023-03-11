@@ -1,2 +1,0 @@
-
-Mostly background UI assets.
